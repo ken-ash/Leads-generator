@@ -1,0 +1,15 @@
+requests
+time
+re
+pandas
+selenium
+smtplib
+email.message
+ssl
+openai
+os
+google.auth.transport.requests
+google_auth_oauthlib.flow
+google.oauth2.credentials
+googleapiclient.discovery
+googleapiclient.errors
