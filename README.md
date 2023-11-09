@@ -46,6 +46,17 @@ This repository contains a Python script designed to automate the lead generatio
 ## Getting Started
 
 1. Clone this repository:
-
 ```bash
+git clone https://github.com/ken-ash/Lead-Generation.git
+cd Lead-Generation
+
+```
+2.Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
 
