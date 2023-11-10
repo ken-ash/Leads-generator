@@ -1,5 +1,5 @@
 # Lead Generation Automation Project
-
+Automatic leads generator
 ## Overview
 
 This repository contains a Python script designed to automate the lead generation process from Google Maps, manage collected data in Google Sheets, and conduct personalized email outreach using the ChatGPT API and an email service. The script aims to streamline the workflow for businesses seeking to expand their customer base and enhance engagement with potential leads.
