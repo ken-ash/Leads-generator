@@ -44,9 +44,13 @@ This repository contains a Python script designed to automate the lead generatio
 - Periodically review and optimize the email outreach strategy for better results.
 
 ## OUTPUT:
-->>when selinium is working it scarps data from browser like shown below
+#->>when selinium is working it scarps data from browser like shown below
+
+
 ![output of selinium for scarping ](https://github.com/ken-ash/Leads-generator/assets/112432007/ff7cec80-6237-431c-84ad-81d5c573ecb3)
-->> after scarping and sending unique mail to every lead using Chatgpt the google sheets records it and updates the csv file 
+#->> after scarping and sending unique mail to every lead using Chatgpt the google sheets records it and updates the csv file 
+
+
 ![output](https://github.com/ken-ash/Leads-generator/assets/112432007/3e34fcf4-9abd-42ae-b2d9-f67653aca6e8)
 
 ## Getting Started
